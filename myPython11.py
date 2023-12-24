@@ -1,5 +1,5 @@
 import math
-'''
+
 #Simple Functions!
 def greet():
     print("Hello Johnny")
@@ -56,7 +56,6 @@ def prime_checker(number):
 n = int(input("Check this is number: "))
 prime_checker(number = n)
 
-'''
 
 #Caeser Cipher = TSEZER SHIFRI
 
